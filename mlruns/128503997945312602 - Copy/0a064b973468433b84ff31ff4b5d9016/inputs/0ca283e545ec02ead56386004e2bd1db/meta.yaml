@@ -1,0 +1,6 @@
+destination_id: adb42ea0d598ac43a485a8b30f405dd2
+destination_type: RUN
+source_id: adb42ea0d598ac43a485a8b30f405dd2
+source_type: DATASET
+tags:
+  mlflow.data.context: training

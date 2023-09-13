@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Munthitra/Desktop/Chaklam/a2/mlruns/128503997945312602/e81a9827b7ff4a9f904a8e4ffb949244/artifacts
+end_time: 1694343090163
+entry_point_name: ''
+experiment_id: '128503997945312602'
+lifecycle_stage: active
+run_id: e81a9827b7ff4a9f904a8e4ffb949244
+run_name: method-batch-momentum-0.5-lr-0.001-l-0.1-initial-xavier-reg-Poly
+run_uuid: e81a9827b7ff4a9f904a8e4ffb949244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694343063660
+status: 3
+tags: []
+user_id: Munthitra

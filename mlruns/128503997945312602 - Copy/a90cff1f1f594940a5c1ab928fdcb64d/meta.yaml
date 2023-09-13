@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Munthitra/Desktop/Chaklam/a2/mlruns/128503997945312602/a90cff1f1f594940a5c1ab928fdcb64d/artifacts
+end_time: 1694343414504
+entry_point_name: ''
+experiment_id: '128503997945312602'
+lifecycle_stage: active
+run_id: a90cff1f1f594940a5c1ab928fdcb64d
+run_name: method-batch-momentum-0-lr-0.01-l-0.1-initial-zeros-reg-Lasso
+run_uuid: a90cff1f1f594940a5c1ab928fdcb64d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694343394606
+status: 3
+tags: []
+user_id: Munthitra

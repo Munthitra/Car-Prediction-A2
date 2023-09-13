@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Munthitra/Desktop/Chaklam/a2/mlruns/128503997945312602/cf24f136bdf1458f985fa5a05cef0039/artifacts
+end_time: 1694346580020
+entry_point_name: ''
+experiment_id: '128503997945312602'
+lifecycle_stage: active
+run_id: cf24f136bdf1458f985fa5a05cef0039
+run_name: Fold-0
+run_uuid: cf24f136bdf1458f985fa5a05cef0039
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694346571682
+status: 3
+tags: []
+user_id: Munthitra

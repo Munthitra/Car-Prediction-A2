@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Munthitra/Desktop/Chaklam/a2/mlruns/128503997945312602/44f5bf0456604f9b9fa34accd799b852/artifacts
+deleted_time: 1694336519205
+end_time: null
+entry_point_name: ''
+experiment_id: '128503997945312602'
+lifecycle_stage: deleted
+run_id: 44f5bf0456604f9b9fa34accd799b852
+run_name: method-mini-lr-0.1-reg-'Norm'-momentum-0.3
+run_uuid: 44f5bf0456604f9b9fa34accd799b852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694336451294
+status: 1
+tags: []
+user_id: Munthitra

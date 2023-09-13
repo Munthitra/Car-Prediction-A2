@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Munthitra/Desktop/Chaklam/a2/mlruns/128503997945312602/eef2071141b64754bad9d8b130a03211/artifacts
+end_time: 1694338915671
+entry_point_name: ''
+experiment_id: '128503997945312602'
+lifecycle_stage: active
+run_id: eef2071141b64754bad9d8b130a03211
+run_name: method-batch-momentum-0-lr-0.1-l-0.1-initial-xavier-reg-Norm
+run_uuid: eef2071141b64754bad9d8b130a03211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694338898844
+status: 3
+tags: []
+user_id: Munthitra

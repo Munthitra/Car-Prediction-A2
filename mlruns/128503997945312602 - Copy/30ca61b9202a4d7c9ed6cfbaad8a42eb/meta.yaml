@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Munthitra/Desktop/Chaklam/a2/mlruns/128503997945312602/30ca61b9202a4d7c9ed6cfbaad8a42eb/artifacts
+end_time: 1694346139902
+entry_point_name: ''
+experiment_id: '128503997945312602'
+lifecycle_stage: active
+run_id: 30ca61b9202a4d7c9ed6cfbaad8a42eb
+run_name: method-batch-momentum-0.5-lr-0.01-l-0.1-initial-zeros-reg-Ridge
+run_uuid: 30ca61b9202a4d7c9ed6cfbaad8a42eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694346107692
+status: 3
+tags: []
+user_id: Munthitra
